@@ -22,7 +22,7 @@ for steps in range(8):
 
 cache = list(filter(filt, cache))
 
-print(len(cache)) 
+print(len(cache) + 1) 
  
 
 
